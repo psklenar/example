@@ -1,0 +1,6 @@
+Josef;Novak;Praha;607924002
+Jan;Benes;Brno;777523000
+Petr;Dvorak;Ostrava;603111222
+Vaclal;Holy;Praha;554334223
+Tereza;Naha;Barcelona;123345567
+Libuse;Cela;Tisnov;554334223
